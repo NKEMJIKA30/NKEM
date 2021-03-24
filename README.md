@@ -1,0 +1,2 @@
+# NKEM
+Decentralized cryptocurrency
